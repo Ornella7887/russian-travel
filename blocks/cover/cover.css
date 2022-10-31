@@ -2,8 +2,8 @@
     font-family: 'Inter', Arial, sans-serif;
     margin: 92px auto 0 auto;
     max-width: 1184px;
-    max-height: 740px; 
-} 
+    max-height: 740px;
+  }
 @media screen and (max-width: 1124px) {
     .cover {
     width: 1024px;
