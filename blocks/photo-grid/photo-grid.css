@@ -21,7 +21,7 @@
 @media screen and (max-width: 984px) {
     .photo-grid {
     width: 720px;
-    height: 1664px;   
+    height: 1664px;
     margin: 88px auto 0;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(6, 1fr);
@@ -31,7 +31,7 @@
   @media screen and (max-width: 568px) {
     .photo-grid {
     width: 288px;
-    height: 2724px;   
+    height: 2724px;
     margin: 64px auto 0;
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(12, 1fr);
