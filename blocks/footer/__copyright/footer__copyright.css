@@ -5,4 +5,20 @@
     line-height: 16px;
     font-weight: 400;
     color: #FFFFFF;
+    text-align: right;
+    padding: 0;
+    justify-self: flex-end;
+    text-decoration: none;
+    cursor: pointer;
+    transition: opacity 0.3 ease-in-out;
+    opacity: 1;
+}
+.footer__copyright:hover {
+    opacity: 0.8;
+}
+@media screen and (max-width: 568px) {
+    .footer__copyright {
+        margin: 48px 0 0;
+        line-height: 14px; 
+    }
 }
