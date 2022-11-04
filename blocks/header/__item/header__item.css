@@ -1,13 +1,12 @@
 .header__item {
-    margin-right: 18px;
-    opacity: 1;
-    cursor: pointer;
-    transition: opacity 0.3s ease-in-out; 
+  margin-right: 18px;
+  opacity: 1;
+  cursor: pointer;
+  transition: opacity 0.3s ease-in-out;
 }
 .header__item:hover {
-    opacity: 0.8;
+  opacity: 0.8;
 }
 .header__item:last-of-type {
-    margin-right: 0;
+  margin-right: 0;
 }
-

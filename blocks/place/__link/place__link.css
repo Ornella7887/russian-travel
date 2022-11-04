@@ -2,7 +2,7 @@
   font-size: 18px;
   line-height: 22px;
   font-weight: 400;
-  color: #FFFFFF;
+  color: #ffffff;
   transition: opacity 0.3s ease-in-out;
   opacity: 1;
 }
@@ -11,8 +11,8 @@
 }
 @media screen and (max-width: 568px) {
   .place__link {
-      max-width: 288px;
-      width: 100%;
-      margin: 0 auto 32px;
-    }
+    max-width: 288px;
+    width: 100%;
+    margin: 0 auto 32px;
+  }
 }
